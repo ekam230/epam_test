@@ -1,0 +1,29 @@
+.table {
+    margin-top: 20px;
+}
+
+
+.btn {
+    width: 100px;
+}
+
+.td__33 {
+    width: 33%
+}
+
+.td__20 {
+    width: 20%
+}
+
+.td__55 {
+    width: 57%
+}
+
+td button.btn {
+    margin-right: 20px;
+}
+
+#qtyName:hover,
+#PriceSort:hover {
+    cursor: pointer;
+}
